@@ -272,7 +272,7 @@
             this.tb_ip.Name = "tb_ip";
             this.tb_ip.Size = new System.Drawing.Size(128, 26);
             this.tb_ip.TabIndex = 23;
-            this.tb_ip.Text = "192.168.88.25";
+            this.tb_ip.Text = "192.168.88.24";
             this.tb_ip.TextChanged += new System.EventHandler(this.tb_ip_TextChanged);
             // 
             // VrepAdapter
