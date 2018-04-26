@@ -1,0 +1,318 @@
+D:\PC3\Dropbox\Files\апрель\(2014_04)Projects\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+D:\PC3\Dropbox\Files\апрель\(2014_04)Projects\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+D:\PC3\Dropbox\Files\апрель\(2014_04)Projects\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+D:\PC3\Dropbox\Files\апрель\(2014_04)Projects\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+D:\PC3\Dropbox\Files\апрель\(2014_04)Projects\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+D:\PC3\Dropbox\Files\апрель\(2014_04)Projects\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+D:\PC3\Dropbox\Files\апрель\(2014_04)Projects\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+D:\PC3\Dropbox\Files\апрель\(2014_04)Projects\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+D:\PC3\Dropbox\Files\апрель\(2014_04)Projects\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+D:\PC3\Dropbox\Files\апрель\(2014_04)Projects\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\user4\Dropbox\Files\tmp\VRepClient\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\user4\Dropbox\Files\tmp\VRepClient\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\user4\Dropbox\Files\tmp\VRepClient\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\user4\Dropbox\Files\tmp\VRepClient\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\user4\Dropbox\Files\tmp\VRepClient\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\user4\Dropbox\Files\tmp\VRepClient\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\user4\Dropbox\Files\tmp\VRepClient\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\user4\Dropbox\Files\tmp\VRepClient\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\user4\Dropbox\Files\tmp\VRepClient\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\user4\Dropbox\Files\tmp\VRepClient\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\user4\Dropbox\Files\tmp\VRepClient\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\Ilan\Desktop\VrepClient2\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\Ilan\Desktop\VrepClient2\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\Ilan\Desktop\VrepClient2\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\Ilan\Desktop\VrepClient2\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\Ilan\Desktop\VrepClient2\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\Ilan\Desktop\VrepClient2\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\Ilan\Desktop\VrepClient2\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\Ilan\Desktop\VrepClient2\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\Ilan\Desktop\VrepClient2\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\Ilan\Desktop\VrepClient2\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\Ilan\Desktop\VrepClient2\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(not work)\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(not work)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(not work)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(not work)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(not work)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(not work)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(not work)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(not work)\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(not work)\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(not work)\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(not work)\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(work) 17.11.15\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(work) 17.11.15\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(work) 17.11.15\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(work) 17.11.15\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(work) 17.11.15\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(work) 17.11.15\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(work) 17.11.15\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(work) 17.11.15\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(work) 17.11.15\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(work) 17.11.15\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\Ilan\Desktop\VrepClient_vs_Kuka(work) 17.11.15\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\Ilan\Desktop\VrepKukaSystemControl\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\Ilan\Desktop\VrepKukaSystemControl\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\Ilan\Desktop\VrepKukaSystemControl\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\Ilan\Desktop\VrepKukaSystemControl\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\Ilan\Desktop\VrepKukaSystemControl\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\Ilan\Desktop\VrepKukaSystemControl\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\Ilan\Desktop\VrepKukaSystemControl\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\Ilan\Desktop\VrepKukaSystemControl\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\Ilan\Desktop\VrepKukaSystemControl\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\Ilan\Desktop\VrepKukaSystemControl\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\Ilan\Desktop\VrepKukaSystemControl\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\Ilan\Desktop\VrepKukaSystemControl\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.03.16)\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.03.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.03.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.03.16)\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.03.16)\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.03.16)\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.03.16)\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.03.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.03.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.03.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.03.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.03.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl(14.03.16)\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl(14.03.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl(14.03.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl(14.03.16)\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl(14.03.16)\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl(14.03.16)\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl(14.03.16)\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl(14.03.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl(14.03.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl(14.03.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl(14.03.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl(14.03.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\Ilan\Desktop\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\Ilan\Desktop\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\Ilan\Desktop\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\Ilan\Desktop\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\Ilan\Desktop\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\Ilan\Desktop\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\Ilan\Desktop\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\Ilan\Desktop\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\Ilan\Desktop\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\Ilan\Desktop\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+C:\Users\Ilan\Desktop\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\Ilan\Desktop\VrepKukaSystemControl (06.04.16) 4 (для демострации)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\Илан\Desktop\VrepKukaSystemControl (08.04.16)\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\Илан\Desktop\VrepKukaSystemControl (08.04.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\Илан\Desktop\VrepKukaSystemControl (08.04.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\Илан\Desktop\VrepKukaSystemControl (08.04.16)\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\Илан\Desktop\VrepKukaSystemControl (08.04.16)\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\Илан\Desktop\VrepKukaSystemControl (08.04.16)\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\Илан\Desktop\VrepKukaSystemControl (08.04.16)\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\Илан\Desktop\VrepKukaSystemControl (08.04.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\Илан\Desktop\VrepKukaSystemControl (08.04.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\Илан\Desktop\VrepKukaSystemControl (08.04.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+C:\Users\Илан\Desktop\VrepKukaSystemControl (08.04.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\Илан\Desktop\VrepKukaSystemControl (08.04.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16)\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16)\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16)\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16)\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16)\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16)\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16) 2\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16) 2\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16) 2\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16) 2\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16) 2\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16) 2\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16) 2\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16) 2\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16) 2\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16) 2\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16) 2\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\Илан\Desktop\VrepKukaSystemControl (09.04.16) 2\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\Илан\OneDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\Илан\OneDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\Илан\OneDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\Илан\OneDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\Илан\OneDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\Илан\OneDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\Илан\OneDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\Илан\OneDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\Илан\OneDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\Илан\OneDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\Илан\OneDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\Илан\OneDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\Илан\OneDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+C:\Users\Илан\OneDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\Илан\OneDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\Ilan\SkyDrive\резервные копии проги для кук и врепа\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\ilanm\Desktop\программный комплекс\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\ilanm\Desktop\программный комплекс\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\ilanm\Desktop\программный комплекс\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\ilanm\Desktop\программный комплекс\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\ilanm\Desktop\программный комплекс\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\ilanm\Desktop\программный комплекс\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\ilanm\Desktop\программный комплекс\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\ilanm\Desktop\программный комплекс\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\ilanm\Desktop\программный комплекс\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\ilanm\Desktop\программный комплекс\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+C:\Users\ilanm\Desktop\программный комплекс\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\ilanm\Desktop\программный комплекс\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\ilanm\Desktop\программный комплекс — копия\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\ilanm\Desktop\программный комплекс — копия\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\ilanm\Desktop\программный комплекс — копия\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\ilanm\Desktop\программный комплекс — копия\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\ilanm\Desktop\программный комплекс — копия\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\ilanm\Desktop\программный комплекс — копия\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\ilanm\Desktop\программный комплекс — копия\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\ilanm\Desktop\программный комплекс — копия\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\ilanm\Desktop\программный комплекс — копия\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\ilanm\Desktop\программный комплекс — копия\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+C:\Users\ilanm\Desktop\программный комплекс — копия\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\ilanm\Desktop\программный комплекс — копия\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\ilanm\Desktop\программный комплекс — Без камер\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\ilanm\Desktop\программный комплекс — Без камер\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\ilanm\Desktop\программный комплекс — Без камер\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\ilanm\Desktop\программный комплекс — Без камер\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\ilanm\Desktop\программный комплекс — Без камер\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\ilanm\Desktop\программный комплекс — Без камер\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\ilanm\Desktop\программный комплекс — Без камер\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\ilanm\Desktop\программный комплекс — Без камер\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\ilanm\Desktop\программный комплекс — Без камер\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\ilanm\Desktop\программный комплекс — Без камер\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+C:\Users\ilanm\Desktop\программный комплекс — Без камер\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\ilanm\Desktop\программный комплекс — Без камер\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\ilanm\Desktop\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\ilanm\Desktop\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\ilanm\Desktop\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\ilanm\Desktop\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\ilanm\Desktop\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\ilanm\Desktop\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\ilanm\Desktop\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\ilanm\Desktop\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\ilanm\Desktop\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\ilanm\Desktop\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+C:\Users\ilanm\Desktop\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\ilanm\Desktop\VrepKukaSystemControl (09.04.16) 3  Одна Кука ездиет по Астару\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\ilanm\Desktop\Сканирование Карты\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\ilanm\Desktop\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\ilanm\Desktop\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\ilanm\Desktop\Сканирование Карты\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\ilanm\Desktop\Сканирование Карты\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\ilanm\Desktop\Сканирование Карты\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\ilanm\Desktop\Сканирование Карты\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\ilanm\Desktop\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\ilanm\Desktop\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\ilanm\Desktop\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+C:\Users\ilanm\Desktop\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\ilanm\Desktop\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\Илан\OneDrive\Сканирование Карты\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\Илан\OneDrive\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\Илан\OneDrive\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\Илан\OneDrive\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\Илан\OneDrive\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\Илан\OneDrive\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+C:\Users\Илан\OneDrive\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\Илан\OneDrive\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\Илан\OneDrive\Сканирование Карты\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\Илан\OneDrive\Сканирование Карты\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\Илан\OneDrive\Сканирование Карты\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\Илан\OneDrive\Сканирование Карты\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\Илан\Desktop\Сканирование Карты\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\Илан\Desktop\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\Илан\Desktop\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\Илан\Desktop\Сканирование Карты\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\Илан\Desktop\Сканирование Карты\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\Илан\Desktop\Сканирование Карты\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\Илан\Desktop\Сканирование Карты\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\Илан\Desktop\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\Илан\Desktop\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\Илан\Desktop\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+C:\Users\Илан\Desktop\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\Илан\Desktop\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\ilanm\OneDrive\Сканирование Карты\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\ilanm\OneDrive\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\ilanm\OneDrive\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\ilanm\OneDrive\Сканирование Карты\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\ilanm\OneDrive\Сканирование Карты\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\ilanm\OneDrive\Сканирование Карты\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\ilanm\OneDrive\Сканирование Карты\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\ilanm\OneDrive\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\ilanm\OneDrive\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+C:\Users\ilanm\OneDrive\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\ilanm\OneDrive\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+E:\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+E:\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+E:\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+E:\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\Admin\Desktop\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\Admin\Desktop\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+C:\Users\Admin\Desktop\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\Admin\Desktop\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\Admin\Desktop\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\Admin\Desktop\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\Admin\Desktop\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\Admin\Desktop\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\Admin\Desktop\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\Admin\OneDrive\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\Admin\OneDrive\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\Admin\OneDrive\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\Admin\OneDrive\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\Admin\OneDrive\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\Admin\OneDrive\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\Admin\OneDrive\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\Admin\OneDrive\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\Admin\OneDrive\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\Admin\OneDrive\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+C:\Users\Admin\OneDrive\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\Admin\OneDrive\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
+C:\Users\ilanm\Desktop\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\ilanm\Desktop\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\ilanm\Desktop\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\ilanm\OneDrive\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
