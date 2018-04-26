@@ -316,3 +316,15 @@ C:\Users\ilanm\Desktop\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
 C:\Users\ilanm\Desktop\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
 C:\Users\ilanm\Desktop\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
 C:\Users\ilanm\OneDrive\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\ilanm\Documents\GitRepositoryes\YoubotSnake.git\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\ilanm\Documents\GitRepositoryes\YoubotSnake.git\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\ilanm\Documents\GitRepositoryes\YoubotSnake.git\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
+C:\Users\ilanm\Documents\GitRepositoryes\YoubotSnake.git\VRepClient\VRepClient\bin\Debug\VRepClient.exe
+C:\Users\ilanm\Documents\GitRepositoryes\YoubotSnake.git\VRepClient\VRepClient\bin\Debug\VRepClient.pdb
+C:\Users\ilanm\Documents\GitRepositoryes\YoubotSnake.git\VRepClient\VRepClient\bin\Debug\VRepAdapter.dll
+C:\Users\ilanm\Documents\GitRepositoryes\YoubotSnake.git\VRepClient\VRepClient\bin\Debug\VRepAdapter.pdb
+C:\Users\ilanm\Documents\GitRepositoryes\YoubotSnake.git\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\ilanm\Documents\GitRepositoryes\YoubotSnake.git\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Form1.resources
+C:\Users\ilanm\Documents\GitRepositoryes\YoubotSnake.git\VRepClient\VRepClient\obj\x86\Debug\VRepClient.MapForm.resources
+C:\Users\ilanm\Documents\GitRepositoryes\YoubotSnake.git\VRepClient\VRepClient\obj\x86\Debug\VRepClient.Properties.Resources.resources
+C:\Users\ilanm\Documents\GitRepositoryes\YoubotSnake.git\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csproj.GenerateResource.Cache
