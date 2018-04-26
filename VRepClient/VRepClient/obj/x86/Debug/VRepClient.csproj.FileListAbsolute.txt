@@ -316,3 +316,6 @@ C:\Users\ilanm\Desktop\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
 C:\Users\ilanm\Desktop\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
 C:\Users\ilanm\Desktop\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
 C:\Users\ilanm\OneDrive\Сканирование Карты\VRepClient\VRepClient\obj\x86\Debug\VRepClient.csprojResolveAssemblyReference.cache
+C:\Users\ilanm\Documents\GitRepositoryes\YoubotSnake.git\VRepClient\VRepClient\bin\Debug\VRepClient.exe.config
+C:\Users\ilanm\Documents\GitRepositoryes\YoubotSnake.git\VRepClient\VRepClient\obj\x86\Debug\VRepClient.exe
+C:\Users\ilanm\Documents\GitRepositoryes\YoubotSnake.git\VRepClient\VRepClient\obj\x86\Debug\VRepClient.pdb
