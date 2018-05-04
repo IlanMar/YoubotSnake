@@ -142,11 +142,11 @@ namespace VRepClient
                    str => MessageBox.Show("Connected!"),
                    str =>
                    {
-                       try
-                       {
-                           ProcessTCP(str);
-                       }
-                       catch { }
+                   try
+                   {
+                       ProcessTCP(str);
+                   }
+                   catch { } // (Exception ex) { MessageBox.Show(ex.ToString()); }
                    },
                    str => MessageBox.Show("Disconnected!"));
 
@@ -248,7 +248,7 @@ namespace VRepClient
         public OdomFromCam OFC = new OdomFromCam();//класс в котором получаем координаты робота с камер
         int k = 0;// ключ точбы взять первою одометрию только один раз
         float[] ustavki = new float[3];//изначальные рассогласования фактического местоположения робота и камер
-     //   int key2 = 0;
+
         public override void ReceiveOdomData(string OdometryData) 
         {
             RobotOdomData = new float[3];
@@ -259,16 +259,21 @@ namespace VRepClient
                 for (int i = 0; i < 3; i++)
                 {
                     RobotOdomData[i] = float.Parse(words[i], System.Globalization.CultureInfo.CreateSpecificCulture("en-US"));
-                    
+
                 }
                 float alpha = RobotOdomData[0];
-                
-                 RobotOdomData[0] = RobotOdomData[1];
-                 RobotOdomData[1] = alpha;
+
+                RobotOdomData[0] = RobotOdomData[1];
+                RobotOdomData[1] = alpha;
+
+                var s = RobotOdomData[0].ToString() + " " + RobotOdomData[1].ToString() +" "+ RobotOdomData[2].ToString();
+
+                Form1.f.Invoke(new Action(() => Form1.f.richTextBox2.Text = s   )); 
+                    
                 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                 //здесь осуществить взятие текущих координат из сети
-                if (RobotOdomData[1] < 2)
-                {
+              //  if (RobotOdomData[1] < 2)
+           //     {
                     float[] camodom = OFC.getCamOdom();
 
                     //float ledx = 0.1f * (float)Math.Cos(RobotOdomData[2]);//так как метка лежит не поцентру робота а чуть ближе к корме то пересчитываем полученные координаты
@@ -290,8 +295,9 @@ namespace VRepClient
                     float AG;
                     XG = ustavki[0]- camodom[0];
                     YG =  camodom[1]- ustavki[1];
-
-
+                    ////////////вывод координат с камер
+                    var sb = XG.ToString() + " " + YG.ToString() + " " + camodom[2].ToString();
+                    Form1.f.Invoke(new Action(() => Form1.f.rtb_tcp2.Text = sb));
 
                     // XG = XG * (-1);// умножаем на минс 1 чтобы инвертировать ось Y и она совпадала с глобальной осью координат Y
                     //для проверки сделаем навигациб только по камерам
@@ -313,17 +319,16 @@ namespace VRepClient
                         newOdom[2] =  camodom[2];
                      //   key2 = 1;
 
-                      SendOdom(newOdom);
+                      //SendOdom(newOdom);
                     }
                     //RobotOdomData[0] = XG;// camodom[0];
                     //RobotOdomData[1] = YG;// camodom[1];
                     //RobotOdomData[2] = camodom[2];
-                }
+              //  }
                }
         }
         public override void Deactivate()
         {
-
             if (tc != null) tc.Disconnect("form closing", false);
         }
     }

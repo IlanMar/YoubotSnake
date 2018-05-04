@@ -20,8 +20,8 @@ namespace VRepClient
             f1 = this;
             
             f2.Show();
-            
-            
+
+            f = this;
         }
         
         public RobotAdapter ra; //экземпляр класса ra - robot adapter
@@ -41,6 +41,7 @@ namespace VRepClient
         //мутим сканирование
         public SearchPath SP;//
         public List<Point> RobotsPoint1 = new List<Point>();//списки чтобы рисовать траекторию движения робота
+        public static Form1 f;//переменная типа формы
         
      //   public OdomFromCam OFC = new OdomFromCam();
         
@@ -169,8 +170,9 @@ namespace VRepClient
                  OutOdomData = OutOdomData + ra.RobotOdomData[i]+"; ";
              }
 
-            // richTextBox1.Text = OutLedData;//закоменчен вывод данных одометрии
-             richTextBox2.Text = OutOdomData;
+                // richTextBox1.Text = OutLedData;//закоменчен вывод данных одометрии
+                //  richTextBox2.Text = OutOdomData;//закоменчено 04.05.2018
+                
              if (RobDrive != null)
              {
                  textBox2.Text = RobDrive.Phi.ToString();
@@ -246,7 +248,7 @@ namespace VRepClient
         }
         public void ShowOdomData(string s)
         {
-            rtb_tcp2.Invoke(new Action(() => rtb_tcp2.Text = s));
+           // rtb_tcp2.Invoke(new Action(() => rtb_tcp2.Text = s));
         }
 
         private void btsend_Click(object sender, EventArgs e)
@@ -289,7 +291,7 @@ namespace VRepClient
             SP = new SearchPath();
         }
 
-        private void richTextBox2_TextChanged(object sender, EventArgs e)
+        public void richTextBox2_TextChanged(object sender, EventArgs e)
         {
 
         }

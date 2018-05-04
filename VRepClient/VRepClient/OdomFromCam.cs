@@ -16,7 +16,7 @@ namespace VRepClient
 
         public float[] getCamOdom()
         {
-            string site = "http://10.0.48.249:7000/coords";
+            string site = "http://10.0.48.214:7000/coords";
 
             HttpWebRequest req = (HttpWebRequest)HttpWebRequest.Create(site);
             HttpWebResponse resp = (HttpWebResponse)req.GetResponse();

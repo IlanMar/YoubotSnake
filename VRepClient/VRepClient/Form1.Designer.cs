@@ -352,7 +352,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(674, 5);
+            this.pictureBox1.Location = new System.Drawing.Point(675, 5);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(850, 850);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -460,7 +460,7 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button bt_tcp_test;
         private System.Windows.Forms.RichTextBox rtb_tcp;
-        private System.Windows.Forms.RichTextBox rtb_tcp2;
+        public System.Windows.Forms.RichTextBox rtb_tcp2;
         private System.Windows.Forms.Button btsend;
         private System.Windows.Forms.Button KukaPotButton;
         private System.Windows.Forms.TextBox textBox6;
@@ -470,7 +470,7 @@
         private System.Windows.Forms.TextBox tb_ip;
         private System.Windows.Forms.Button VrepAdapter;
         private System.Windows.Forms.Button YoubotAdapter;
-        private System.Windows.Forms.RichTextBox richTextBox2;
+        public System.Windows.Forms.RichTextBox richTextBox2;
         private System.Windows.Forms.Button Drive;
         private System.Windows.Forms.TextBox textBox8;
         private System.Windows.Forms.TextBox textBox9;
