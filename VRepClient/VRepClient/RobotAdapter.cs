@@ -1,4 +1,4 @@
-﻿// VRep-YouBot Adapter, Margolin Ilan (MIREA 2016)
+﻿// VRep-YouBot Adapter, Margolin Ilan (MIREA 2016) //07 05 2018
 using System;
 using System.Collections.Generic;
 using System.Globalization;
@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using VRepAdapter;
+using System.Threading;
 
 namespace VRepClient
 {
@@ -15,7 +16,6 @@ namespace VRepClient
         public virtual void Init(){}
         public virtual void Deactivate(){}
         public virtual void Send(Drive RobDrive) { }//отправка управляющих команд
-    //    public virtual void SendOdom(float[] newOdom) { }//отправка управляющих команд
         public virtual void ReceiveLedData(string LedarData) { } /*получение данных ледара и закидывание их в массив*/
         public virtual void ReceiveOdomData(string OdometryData) { }//получение данных одометрии и закидывание их в массив
 
@@ -142,11 +142,11 @@ namespace VRepClient
                    str => MessageBox.Show("Connected!"),
                    str =>
                    {
-                   try
-                   {
-                       ProcessTCP(str);
-                   }
-                   catch { } // (Exception ex) { MessageBox.Show(ex.ToString()); }
+                       try
+                       {
+                           ProcessTCP(str);
+                       }
+                       catch { }
                    },
                    str => MessageBox.Show("Disconnected!"));
 
@@ -179,21 +179,6 @@ namespace VRepClient
             }
 
         }
-        void SendOdom(float[] newOdom)//отправляем обновленные координаты одометрии на куку
-        {
-            if (newOdom != null)
-            {
-                float x = newOdom[0];
-                float y = newOdom[1];
-                float a = newOdom[2];
-                string p = "0.01";//чтобы текущие координаты обновлялить только на 10% относительно новых
-                string control_str;
-              // control_str = string.Format("LUA_UpdateScreenPose(", x, y, a, p, ")");
-               control_str = string.Format(CultureInfo.InvariantCulture, "LUA_UpdateScreenPose({0}, {1}, {2}, {3})", y, x, a, p);
-                if (control_str != null) tc.Send(control_str);//отправка новох значений одометрии на куку
-            }
-        }
-        int key = 0;//ключ для уточнения одометрии
         public override void Send(Drive RobDrive) 
         {
             if (RobDrive != null)
@@ -213,12 +198,11 @@ namespace VRepClient
                  var arg2 = 0;
                  var arg3 = Wrob; arg3 = Math.Max(-speed, Math.Min(arg3, speed));//возможно(left-right)
                  control_str = string.Format(CultureInfo.InvariantCulture, "LUA_Base({0}, {1}, {2})", arg1, arg2, arg3);
-
+            
                 // var b = KukaPotField.ObstDistKuka(KukaPotField.LaserDataKuka, KukaPotField.RobLocDataKuka);
                 //if (b)
                 //{
-                
-                    if (control_str != null) tc.Send(control_str);//отправляем команду на сервер куки
+                   if (control_str != null) tc.Send(control_str);//отправляем команду на сервер куки
                 //    }
             }
             /*youbot_connection.send(ToString(data));*/
@@ -245,10 +229,11 @@ namespace VRepClient
              }
 
         }
+        float d = 0;
+        int y = 0;//ключ для входа в зону где камеры учитываются
         public OdomFromCam OFC = new OdomFromCam();//класс в котором получаем координаты робота с камер
         int k = 0;// ключ точбы взять первою одометрию только один раз
         float[] ustavki = new float[3];//изначальные рассогласования фактического местоположения робота и камер
-
         public override void ReceiveOdomData(string OdometryData) 
         {
             RobotOdomData = new float[3];
@@ -259,29 +244,43 @@ namespace VRepClient
                 for (int i = 0; i < 3; i++)
                 {
                     RobotOdomData[i] = float.Parse(words[i], System.Globalization.CultureInfo.CreateSpecificCulture("en-US"));
-
+                    
                 }
                 float alpha = RobotOdomData[0];
+                
+                 RobotOdomData[0] = RobotOdomData[1];
+                 RobotOdomData[1] = alpha;
 
-                RobotOdomData[0] = RobotOdomData[1];
-                RobotOdomData[1] = alpha;
+                var s = RobotOdomData[0].ToString() + " " + RobotOdomData[1].ToString() + " " + RobotOdomData[2].ToString();
 
-                var s = RobotOdomData[0].ToString() + " " + RobotOdomData[1].ToString() +" "+ RobotOdomData[2].ToString();
+                Form1.f.Invoke(new Action(() => Form1.f.richTextBox2.Text = s));
 
-                Form1.f.Invoke(new Action(() => Form1.f.richTextBox2.Text = s   )); 
-                    
                 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                 //здесь осуществить взятие текущих координат из сети
-              //  if (RobotOdomData[1] < 2)
-           //     {
+                
+              if (y==0)
+                {
+                    
+                    y = 1;
+                    if (tc != null)// здесь происходит отправка задающих команд на куку
+                    {                        
+                        string control_str;                     //отправляем нулевые уставки на куку
+                        control_str = string.Format(CultureInfo.InvariantCulture, "LUA_Base({0}, {1}, {2})", 0, 0, 0);
+                        if (control_str != null) tc.Send(control_str);//отправляем команду на сервер куки      
+                        //Form1.f.timer1.Enabled = false;
+                        //System.Threading.Thread.Sleep(5000);
+                       // Form1.f.timer1.Enabled = true;
+                    }
+                   
+                   
                     float[] camodom = OFC.getCamOdom();
 
-                    //float ledx = 0.1f * (float)Math.Cos(RobotOdomData[2]);//так как метка лежит не поцентру робота а чуть ближе к корме то пересчитываем полученные координаты
-                    //float ledy = 0.1f * (float)Math.Sin(RobotOdomData[2]);
+                //float ledx = 0.1f * (float)Math.Cos(RobotOdomData[2]);//так как метка лежит не поцентру робота а чуть ближе к корме то пересчитываем полученные координаты
+                //float ledy = 0.1f * (float)Math.Sin(RobotOdomData[2]);
 
-                    //camodom[0] = camodom[0] + ledx;
-                    //camodom[1] = camodom[1] + ledy;
-
+                //camodom[0] = camodom[0] + ledx;
+                //camodom[1] = camodom[1] + ledy;
+                camodom[1] = camodom[1] * -1;
                     if (k == 0)
                     {
                         ustavki[0] = camodom[0];
@@ -292,43 +291,55 @@ namespace VRepClient
 
                     float XG;// Х координата 
                     float YG;// Y координата
-                    float AG;
-                    XG = ustavki[0]- camodom[0];
-                    YG =  camodom[1]- ustavki[1];
-                    ////////////вывод координат с камер
-                    var sb = XG.ToString() + " " + YG.ToString() + " " + camodom[2].ToString();
+                    float AG = camodom[2];
+                    XG = ustavki[0] - camodom[0];
+                   // XG = XG;          
+                    YG = ustavki[1]- camodom[1];
+                //YG = YG * -1;
+                var sb = XG.ToString() + " " + YG.ToString() + " " + camodom[2].ToString();
                     Form1.f.Invoke(new Action(() => Form1.f.rtb_tcp2.Text = sb));
+
 
                     // XG = XG * (-1);// умножаем на минс 1 чтобы инвертировать ось Y и она совпадала с глобальной осью координат Y
                     //для проверки сделаем навигациб только по камерам
 
-                    //float usrednenieX = RobotOdomData[0] - XG;//высчитываем разницу между одометрий и камерами
-                    //float usrednenieY = RobotOdomData[1] - YG;
-                    //RobotOdomData[0] = RobotOdomData[0] - usrednenieX / 20;
-                    //RobotOdomData[1] = RobotOdomData[1] - usrednenieY / 20;
-                    //float usrednenieA = RobotOdomData[2] - camodom[2];
+                    float usrednenieX = Math.Abs(RobotOdomData[0]) - Math.Abs(XG);//высчитываем разницу между одометрий и камерами
+                    float usrednenieY = Math.Abs(RobotOdomData[1]) - Math.Abs(YG);
+                    RobotOdomData[0] = RobotOdomData[0] - usrednenieX / 10;
+                    RobotOdomData[1] =  RobotOdomData[1] - usrednenieY / 10;
+                    float usrednenieA = Math.Abs(RobotOdomData[2]) - Math.Abs(camodom[2]);
+                    RobotOdomData[2] = RobotOdomData[2] + usrednenieA / 100;// RobotOdomData[2] + usrednenieA / 50;
 
-                    // RobotOdomData[2] = RobotOdomData[2] + usrednenieA / 20;// RobotOdomData[2] + usrednenieA / 50;
-                    //if (RobotOdomData[1] < 2 && RobotOdomData[1] > 0.5 && RobotOdomData[0] > -1 && RobotOdomData[0] < 1)// если робот находится в обозначеном данными параметрами квадрате, то на юбота отправляется обновленная одометрия 
+                    float[] newOdom = new float[3];
+                    newOdom[0] = RobotOdomData[0];
+                    newOdom[1] = RobotOdomData[1];
+                    newOdom[2] = RobotOdomData[2];
+                    //   key2 = 1;
 
-                    if (RobotOdomData[1] < 2 && RobotOdomData[1] > 0.3 && RobotOdomData[0] > -1 && RobotOdomData[0] < 1 )//& key2==0)
-                    {
-                        float[] newOdom = new float[3];
-                        newOdom[0] =  XG;
-                        newOdom[1] =  YG;
-                        newOdom[2] =  camodom[2];
-                     //   key2 = 1;
+                    SendOdom(newOdom);
+                }
+                y++;//чтобы каждые 100 циклов программы y обнулялся и заходил в зону взятия данных с камер
+                if (y == 100) y = 0;
 
-                      //SendOdom(newOdom);
-                    }
-                    //RobotOdomData[0] = XG;// camodom[0];
-                    //RobotOdomData[1] = YG;// camodom[1];
-                    //RobotOdomData[2] = camodom[2];
-              //  }
                }
+        }
+        void SendOdom(float[] newOdom)//отправляем обновленные координаты одометрии на куку
+        {
+            if (newOdom != null)
+            {
+                float x = newOdom[0];
+                float y = newOdom[1];
+                float a = newOdom[2];
+                string p = "0.1";//чтобы текущие координаты обновлялить только на 10% относительно новых
+                string control_str;
+                // control_str = string.Format("LUA_UpdateScreenPose(", x, y, a, p, ")");
+                control_str = string.Format(CultureInfo.InvariantCulture, "LUA_UpdateScreenPose({0}, {1}, {2}, {3})", y, x, a, p);
+                if (control_str != null) tc.Send(control_str);//отправка новох значений одометрии на куку
+            }
         }
         public override void Deactivate()
         {
+
             if (tc != null) tc.Disconnect("form closing", false);
         }
     }

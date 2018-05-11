@@ -41,7 +41,6 @@ namespace VRepClient
         //мутим сканирование
         public SearchPath SP;//
         public List<Point> RobotsPoint1 = new List<Point>();//списки чтобы рисовать траекторию движения робота
-        public static Form1 f;//переменная типа формы
         
      //   public OdomFromCam OFC = new OdomFromCam();
         
@@ -170,9 +169,8 @@ namespace VRepClient
                  OutOdomData = OutOdomData + ra.RobotOdomData[i]+"; ";
              }
 
-                // richTextBox1.Text = OutLedData;//закоменчен вывод данных одометрии
-                //  richTextBox2.Text = OutOdomData;//закоменчено 04.05.2018
-                
+            // richTextBox1.Text = OutLedData;//закоменчен вывод данных одометрии
+             richTextBox2.Text = OutOdomData;
              if (RobDrive != null)
              {
                  textBox2.Text = RobDrive.Phi.ToString();
@@ -231,7 +229,7 @@ namespace VRepClient
         }
 
         public static Form1 f1;
-
+        public static Form1 f;
         private void bt_tcp_test_Click(object sender, EventArgs e)
         {
             if (ra is YoubotAdapter)
@@ -291,7 +289,7 @@ namespace VRepClient
             SP = new SearchPath();
         }
 
-        public void richTextBox2_TextChanged(object sender, EventArgs e)
+        private void richTextBox2_TextChanged(object sender, EventArgs e)
         {
 
         }

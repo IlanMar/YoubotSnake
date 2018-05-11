@@ -272,7 +272,7 @@
             this.tb_ip.Name = "tb_ip";
             this.tb_ip.Size = new System.Drawing.Size(128, 26);
             this.tb_ip.TabIndex = 23;
-            this.tb_ip.Text = "192.168.88.24";
+            this.tb_ip.Text = "192.168.88.25";
             this.tb_ip.TextChanged += new System.EventHandler(this.tb_ip_TextChanged);
             // 
             // VrepAdapter
@@ -352,7 +352,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(675, 5);
+            this.pictureBox1.Location = new System.Drawing.Point(674, 5);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(850, 850);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -446,7 +446,7 @@
 
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.RichTextBox richTextBox1;
-        private System.Windows.Forms.Timer timer1;
+        public System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button Button2;

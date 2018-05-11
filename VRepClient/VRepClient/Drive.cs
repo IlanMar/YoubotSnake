@@ -78,8 +78,8 @@ namespace VRepClient
                 right = 0;
                 left = 0;
             }
-            //right = 0;//10; left = 10;///
-            //right = 0; left = 0;///
+           // right = 0;//10; left = 10;///
+           // right = 0; left = 0;///
       //  right = 0;// left = 3;///
         }
 
